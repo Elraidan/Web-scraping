@@ -50,4 +50,4 @@ Factorio: Space Age	139,00€	No discount	139,00€
 Valve Index® Replacement Tether	12,67€	No discount	-35%19,50€12,67€
 I Am Future: Cozy Apocalypse Survival	49,99€	No discount	49,99€
 Crusader Kings III	Price not available	No discount	Release date not available
-![image](https://github.com/user-attachments/assets/fa0488ce-5a98-4705-a275-670840e5f157)
+
