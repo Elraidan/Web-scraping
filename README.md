@@ -27,7 +27,7 @@ Sends a GET request to the Steam top sellers page.
 
 Parses the HTML content using BeautifulSoup.
 
-Extracts game data including:
+### Extracts game data including:
 
 Title
 
