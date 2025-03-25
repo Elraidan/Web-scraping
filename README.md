@@ -64,3 +64,8 @@ If Steam changes its website structure, the script may need updates to locate th
 
 Ensure your system has permission to write files to the specified Excel file path.
 
+## Example of the excel
+
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/b01b7191-3c9e-42f1-8ae4-fba250d3ddfd" />
+
+
