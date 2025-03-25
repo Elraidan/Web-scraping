@@ -1,11 +1,11 @@
 # Web-scraping
 Steam Top Sellers Scraper
 
-Overview
+## Overview
 
 This Python script scrapes the Steam store's top-selling games, extracts their titles, prices, discounts, and release dates, and then saves the data to an Excel file.
 
-Features
+## Features
 
 Scrapes game titles, prices, discounts, and release dates from Steam's top sellers list.
 
@@ -15,7 +15,7 @@ Stores the extracted data in an Excel spreadsheet using OpenPyXL.
 
 Handles cases where price, discount, or release date information may not be available.
 
-Requirements
+## Requirements
 
 Before running the script, ensure you have the following Python libraries installed:
 
