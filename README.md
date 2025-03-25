@@ -41,7 +41,7 @@ Prints the extracted data to the console.
 
 Saves the data to an Excel file at C:\Users\Niklas\Documents\Python\Steam_Games.xlsx.
 
-Usage
+## Usage
 
 Run the script using Python:
 
@@ -49,7 +49,7 @@ python steam_scraper.py
 
 After execution, an Excel file will be created with the scraped game data.
 
-Output Example
+## Output Example
 
 The script prints the extracted game data in the following format:
 
@@ -58,12 +58,9 @@ Game: Farming Simulator 25 - Price: 49,99€ - Discount: -35% - Release Date: 49
 ...
 Excel file created successfully at C:\Users\Niklas\Documents\Python\Steam_Games.xlsx
 
-Notes
+## Notes
 
 If Steam changes its website structure, the script may need updates to locate the correct HTML elements.
 
 Ensure your system has permission to write files to the specified Excel file path.
 
-License
-
-This project is open-source and available under the MIT License.
